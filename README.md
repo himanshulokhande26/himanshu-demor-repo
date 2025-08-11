@@ -1,2 +1,3 @@
 # himanshu-demor-repo
-This is my first GIT repository 
+This is my first GIT HUB repository 
+Aurthor - Himanshu Lokhande 
